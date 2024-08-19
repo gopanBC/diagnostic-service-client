@@ -13,15 +13,6 @@ This project aims to streamline debugging, performance monitoring, and system he
 - **Customizable Logging:** Allows configuration of log verbosity and format.
 - **Scalable Monitoring:** Efficiently handles multiple service clients and high-frequency service calls.
 
-## Installation
-
-To use the `DiagnosticServiceClient`, you need to have ROS installed on your system. Follow these steps to set up the project:
-
-### Clone the Repository
-
-```
-git clone https://github.com/yourusername/diagnostic_service_client.git
-```
 
 ## Usage
 Creating a Diagnostic Service Client
